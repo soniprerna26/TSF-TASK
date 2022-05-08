@@ -27,7 +27,7 @@ To let the students integrate, and help each other, learn from each other and do
 
   Hello There! I am Prerna Soni, Web Developer and Designing Intern at The Sparks Foundation. 
 
-### The Challenge
+## The Challenge
 
 Users should be able to:
   -  View the optimal layout for the component depending on their device's screen size.
