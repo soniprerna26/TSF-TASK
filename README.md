@@ -31,7 +31,7 @@ To let the students integrate, and help each other, learn from each other and do
 
 Users should be able to:
   -  View the optimal layout for the component depending on their device's screen size.
-  -  See a hover state on desktop for the Sign Up call to action.
+  -  See a hover state on desktop for the sign up call to action.
   -  Should be able to use the integrated payment method. 
 
 ## My Task
