@@ -1,6 +1,6 @@
 # The Sparks Founation  - ...inspiring, innovating, integrating
 
-- <u>Our Vision Statement</u>: 
+- Our Vision Statement: 
 A world of enabled and connected little minds, building future.
 
 - Our Mission Statement:
