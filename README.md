@@ -1,32 +1,20 @@
 # The Sparks Founation 
   - ...inspiring, innovating, integrating
 
-Our Vision Statement
+- Our Vision Statement
 A world of enabled and connected little minds, building future.
 
-Our Mission Statement
-Statement
+- Our Mission Statement
 To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
-Inspire
+- Inspire
 To inspire, motivate and encourage students to learn, create and help build a better society.
 
-Innovate
+- Innovate
 To teach new ways of thinking, to innovate and solve the problems on their own.
 
-Integrate
+- Integrate
 To let the students integrate, and help each other, learn from each other and do well together.
-
-Our Values
-Resilience
-Commitment
-Integrity
-Respect
-People
-Training
-Excellence
-Quality
-Professionalism
 
 ## Table of Contents
 
