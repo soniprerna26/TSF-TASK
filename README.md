@@ -1,9 +1,9 @@
 # The Sparks Founation  - ...inspiring, innovating, integrating
 
-- Our Vision Statement: 
+- Our Vision Statement -
 A world of enabled and connected little minds, building future.
 
-- Our Mission Statement:
+- Our Mission Statement -
 To inspire students, help them innovate and let them integrate to build the next generation humankind.
 
 - Inspire - 
@@ -21,10 +21,11 @@ To let the students integrate, and help each other, learn from each other and do
 - [The Challenge](#the-challenge)
 - [My Task](#mu-task)
 - [My Process](#my-process)
+- [Accomplishments](#my-accomplishments)
 
 ## About me 
 
-  Hi! I am Prerna Soni, Web Developer Intern at The Sparks Foundation. 
+  Hello There! I am Prerna Soni, Web Developer and Designing Intern at The Sparks Foundation. 
 
 ### The Challenge
 
@@ -55,3 +56,9 @@ Users should be able to:
     
    ### Continued development 
     - I want to continue cleaning my code and learn more about small animations. 
+    
+ ## Accomplishments
+ 
+  - I received The Bronze Hand by The Sparks Foundation.
+  - I received The Silver Hand by The Sparks Foundation.
+  - I received The Certificate of Completion by The Sparks Foundation.
