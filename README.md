@@ -41,8 +41,8 @@ Users should be able to:
 ## My Process
 
   ### Built with 
-    - HTML 
-    - CSS custom properties
+    - HTML5
+    - CSS3 custom properties
     - Flexbox
     
    ### Technologies 
@@ -53,9 +53,6 @@ Users should be able to:
     - I used transition property and learned to make a webpage responsive.
     - I also learned to used flexbox.
     - I also learned to integrate payment method in a webpage. 
-    
-   ### Continued development 
-    - I want to continue cleaning my code and learn more about small animations. 
     
  ## Accomplishments
  
